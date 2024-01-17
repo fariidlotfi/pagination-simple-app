@@ -1,0 +1,10 @@
+body {
+  background: rgb(14, 104, 92);
+  padding: 0;
+  margin: 0;
+}
+
+.MuiButtonBase-root,
+.MuiPaginationItem-root {
+  color: white !important;
+}
