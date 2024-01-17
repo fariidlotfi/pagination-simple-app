@@ -1,9 +1,3 @@
-# React + Vite
+A simple pagination app create by REACT, Material UI and for data JSONPlaceholder Fake API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# pagination-simple-app
+![pagination shot](https://github.com/fariidlotfi/pagination-simple-app/assets/138003177/c64823fb-f710-411f-916b-c34d2c7e3347)
